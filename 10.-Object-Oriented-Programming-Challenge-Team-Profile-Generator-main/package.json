@@ -1,0 +1,28 @@
+{
+  "name": "10.-object-riented-programming-challenge-team-profile-generator-main",
+  "version": "1.0.0",
+  "description": "app to create team profile generator ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebastianhiggins/10.-Object-Oriented-Programming-Challenge-Team-Profile-Generator"
+  },
+  "author": "sebastian higgns",
+  "license": "ISC",
+  "bugs": {
+    "url": "file:///C:/Users/roadb/OneDrive/Desktop/work/wednesday/10.-Object-Oriented-Programming-Challenge-Team-Profile-Generator-main/dist/index.html"
+  },
+  "homepage": "https://github.com/sebastianhiggins/10.-Object-Oriented-Programming-Challenge-Team-Profile-Generator/blob/main/README.md",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
